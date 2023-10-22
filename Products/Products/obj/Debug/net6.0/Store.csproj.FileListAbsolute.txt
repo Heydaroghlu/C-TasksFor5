@@ -1,0 +1,15 @@
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\bin\Debug\net6.0\Store.exe
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\bin\Debug\net6.0\Store.deps.json
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\bin\Debug\net6.0\Store.runtimeconfig.json
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\bin\Debug\net6.0\Store.dll
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\bin\Debug\net6.0\Store.pdb
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\obj\Debug\net6.0\Store.csproj.AssemblyReference.cache
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\obj\Debug\net6.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\obj\Debug\net6.0\Store.AssemblyInfoInputs.cache
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\obj\Debug\net6.0\Store.AssemblyInfo.cs
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\obj\Debug\net6.0\Store.csproj.CoreCompileInputs.cache
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\obj\Debug\net6.0\Store.dll
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\obj\Debug\net6.0\refint\Store.dll
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\obj\Debug\net6.0\Store.pdb
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\obj\Debug\net6.0\Store.genruntimeconfig.cache
+C:\Users\Isa\Desktop\LessonsC-\C#Lessons\Products\Products\obj\Debug\net6.0\ref\Store.dll
